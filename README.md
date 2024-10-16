@@ -8,9 +8,9 @@ I'm a Software Engineer who currently works as a Freelance Wordpress/Web develop
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning JavaScript and NodeJS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing info@samuelmadu.com.
 
 ---
